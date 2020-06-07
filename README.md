@@ -7,6 +7,5 @@ In this paper we only disscus about control system for this TFF. So, by controli
 
 Key words :- Nextion HMI display, RPM, Pressure sensors
 
-I did this with technical support with Nagabushanam sir & Jithendra sir.
-and with finally support with Paravathula sir. 
+I did this with technical support with Nagabushanam sir, Jithendra sir and with finally support with Paravathula sir. 
 In supervision of Dr Laxminarayana sir.
