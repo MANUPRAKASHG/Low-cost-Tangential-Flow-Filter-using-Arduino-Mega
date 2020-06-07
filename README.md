@@ -6,3 +6,7 @@ The main aim of the project is to design a Low cost Tangential Flow Filter. Wher
 In this paper we only disscus about control system for this TFF. So, by controling the RPM(Rotation Per Minute) of the stepper motor the liquid pressure is  controlled then  we used a Nextion HMI display to set the liquid pressure directly in it then a paticular RPM  of stepper is automatically set according to get that pressure.
 
 Key words :- Nextion HMI display, RPM, Pressure sensors
+
+I did this with technical support with Nagabushanam sir & Jithendra sir.
+and with finally support with Paravathula sir. 
+In supervision of Dr Laxminarayana sir.
