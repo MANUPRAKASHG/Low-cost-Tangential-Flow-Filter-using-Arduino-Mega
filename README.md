@@ -7,5 +7,5 @@ Here we only disscus about control system for this TFF( Tangential Flow Filter).
 
 Key words :- Nextion HMI display, RPM, Pressure sensors
 
-I did this with technical support with Nagabushanam sir, Jithendra sir and with finally support with Paravathula sir. 
+I did this with technical support with Nagabushanam sir, Jithendra sir and with finally support with Bharata Ratnam sir. 
 In supervision of Dr Laxminarayana sir.
