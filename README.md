@@ -11,6 +11,6 @@ Key words :- Nextion HMI display, RPM, Pressure sensors
 
 I did this with technical support from Nagabushanam sir, Jithendra sir and financial support with Bharata Ratnam sir. In supervision of Dr Laxminarayana sir.
 
- 
+Abstract Link :-  https://docs.google.com/document/d/1L1N_CDpHUpCggCDVUYO3syQjuosNME1ZoTfWc_v-Qao/edit?usp=sharing
 
 
